@@ -1,0 +1,4 @@
+Bundle-Name: com.pnb.fd.form
+Bundle-SymbolicName: com.pnb.fd.form
+Bundle-Version: 1.0.0
+Export-Package: com.pnb.fd.form.constants
